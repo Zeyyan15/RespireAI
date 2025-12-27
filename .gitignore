@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.keras
+.env
+.vscode/
+.ipynb_checkpoints/
+data/
+Respiratory_Sound_Database/
