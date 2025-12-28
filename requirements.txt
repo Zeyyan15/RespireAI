@@ -2,8 +2,12 @@ streamlit
 numpy
 pandas
 matplotlib
+seaborn
 scikit-learn
 librosa
 tensorflow-cpu
-opencv-python
+opencv-python-headless
 soundfile
+scipy
+python-dotenv
+openai
